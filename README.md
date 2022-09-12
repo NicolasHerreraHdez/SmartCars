@@ -1,5 +1,7 @@
 # Equipo2_TC2008B
 Repositorio del equipo 2 para el reto.
+Integrantes:
+- Nicolás Herrera Hernández.
 UNITY
 No se pudieron subir los archivos por su tamaño, se adjunta el link de Google Drive donde estan los siguientes archivos:
 - A01114972_FinalBuild.zip : zip de la carpeta del Build generado por Unity.
